@@ -1,0 +1,1129 @@
+
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=123	HD=223	
+123: ALTURA(1)
+ 	HI=111	HD=150	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+150: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=789	HD=987	
+789: ALTURA(1)
+ 	HI=765	HD= -  	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+  Se elimino el Tren 150
+  Se elimino el Tren 123
+ESTADO FINAL
+___________________________________________
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=111	HD=223	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=789	HD=987	
+789: ALTURA(1)
+ 	HI=765	HD= -  	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=123	HD=223	
+123: ALTURA(1)
+ 	HI=111	HD=150	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+150: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=789	HD=987	
+789: ALTURA(1)
+ 	HI=765	HD= -  	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+  Se elimino el Tren 150
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=123	HD=223	
+123: ALTURA(1)
+ 	HI=111	HD=150	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+150: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=789	HD=987	
+789: ALTURA(1)
+ 	HI=765	HD= -  	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+  Se elimino el Tren 789
+ESTADO FINAL
+___________________________________________
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=123	HD=223	
+123: ALTURA(1)
+ 	HI=111	HD=150	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+150: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=765	HD=987	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=123	HD=223	
+123: ALTURA(1)
+ 	HI=111	HD=150	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+150: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=789	HD=987	
+789: ALTURA(1)
+ 	HI=765	HD= -  	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+  Se elimino el Tren 210
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=123	HD=223	
+123: ALTURA(1)
+ 	HI=111	HD=150	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+150: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=789	HD=987	
+789: ALTURA(1)
+ 	HI=765	HD= -  	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+ESTADO FINAL
+___________________________________________
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=123	HD=223	
+123: ALTURA(1)
+ 	HI=111	HD=150	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+150: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=789	HD=987	
+789: ALTURA(1)
+ 	HI=765	HD= -  	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+Palermo: ALTURA(4)
+ 	HI=La Plata	HD=San Carlos de Bariloche	
+La Plata: ALTURA(3)
+ 	HI=Cordoba	HD=Mendoza	
+Cordoba: ALTURA(2)
+ 	HI=Bariloche	HD=Formosa	
+Bariloche: ALTURA(1)
+ 	HI= -  	HD=Catamarca	
+Catamarca: ALTURA(0)
+ 	HI= -  	HD= -  	
+Formosa: ALTURA(1)
+ 	HI=Corrientes	HD=Jujuy	
+Corrientes: ALTURA(0)
+ 	HI= -  	HD= -  	
+Jujuy: ALTURA(0)
+ 	HI= -  	HD= -  	
+Mendoza: ALTURA(2)
+ 	HI=Mar del Plata	HD=Neuquen	
+Mar del Plata: ALTURA(1)
+ 	HI=La Rioja	HD= -  	
+La Rioja: ALTURA(0)
+ 	HI= -  	HD= -  	
+Neuquen: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Carlos de Bariloche: ALTURA(3)
+ 	HI=Rosario	HD=San Miguel de Tucuman	
+Rosario: ALTURA(2)
+ 	HI=Retiro	HD=Salta	
+Retiro: ALTURA(1)
+ 	HI=Posadas	HD= -  	
+Posadas: ALTURA(0)
+ 	HI= -  	HD= -  	
+Salta: ALTURA(0)
+ 	HI= -  	HD= -  	
+San Miguel de Tucuman: ALTURA(1)
+ 	HI=San Juan	HD=Santa Fe	
+San Juan: ALTURA(0)
+ 	HI= -  	HD= -  	
+Santa Fe: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+{Mesopotamia=[ Estacion{nombre='Posadas', calle='Av. Mitre', numero='900', ciudad='Posadas', codigoPostal='N3300', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Formosa', calle='Calle Rivadavia', numero='600', ciudad='Formosa', codigoPostal='P3600', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Corrientes', calle='Calle Junin', numero='1000', ciudad='Corrientes', codigoPostal='W3400', cantidadVias=5, cantidadPlataformas=3} ], Mitre=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3} ], Mar del Plata=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Palermo', calle='Av. Sarmiento', numero='2704', ciudad='CABA', codigoPostal='C1425', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Plata', calle='Calle 7', numero='1270', ciudad='La Plata', codigoPostal='B1900', cantidadVias=6, cantidadPlataformas=3}, Estacion{nombre='Mar del Plata', calle='San Juan', numero='1642', ciudad='Mar del Plata', codigoPostal='7600', cantidadVias=5, cantidadPlataformas=4} ], Patagonia=[ Estacion{nombre='Bariloche', calle='Av. Bustillo', numero='1000', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='San Carlos de Bariloche', calle='Av. Libertador ', numero='200', ciudad='Bariloche', codigoPostal='R8400', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Neuquen', calle='Calle Belgrano', numero='1200', ciudad='Neuquen', codigoPostal='Q8300', cantidadVias=6, cantidadPlataformas=4} ], Andina=[ Estacion{nombre='Mendoza', calle='Calle San Martin', numero='540', ciudad='Mendoza', codigoPostal='M5500', cantidadVias=7, cantidadPlataformas=4}, Estacion{nombre='San Juan', calle='Calle Rivadavia', numero='300', ciudad='San Juan', codigoPostal='J5400', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='La Rioja', calle='Calle San Nicolas', numero='700', ciudad='La Rioja', codigoPostal='F5300', cantidadVias=4, cantidadPlataformas=2}, Estacion{nombre='Catamarca', calle='Calle Rivadavia', numero='500', ciudad='Catamarca', codigoPostal='K4700', cantidadVias=3, cantidadPlataformas=2} ], Norte=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Santa Fe', calle='Calle 25 de Mayo', numero='800', ciudad='Santa Fe', codigoPostal='S3000', cantidadVias=4, cantidadPlataformas=3}, Estacion{nombre='Jujuy', calle='Calle Belgrano', numero='400', ciudad='Jujuy', codigoPostal='Y4600', cantidadVias=5, cantidadPlataformas=3}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ], Salta Express=[ Estacion{nombre='Retiro', calle='Av. Dr. Jose Maria Ramos Mejia', numero='1430', ciudad='CABA', codigoPostal='C1104', cantidadVias=9, cantidadPlataformas=6}, Estacion{nombre='Cordoba', calle='Boulevard Juan Domingo Peron', numero='101', ciudad='Cordoba', codigoPostal='5000', cantidadVias=6, cantidadPlataformas=4}, Estacion{nombre='Salta', calle='Calle Buenos Aires', numero='650', ciudad='Salta', codigoPostal='A4400', cantidadVias=3, cantidadPlataformas=2} ]}
+Catamarca->
+ 	 Retiro(1200) - La Rioja(300) - 
+La Rioja->
+ 	 Catamarca(300) - San Juan(400) - 
+San Juan->
+ 	 Neuquen(1100) - La Rioja(400) - Posadas(900) - 
+Posadas->
+ 	 San Juan(900) - Formosa(700) - 
+Formosa->
+ 	 Neuquen(850) - Bariloche(1400) - Posadas(700) - Corrientes(500) - 
+Corrientes->
+ 	 Formosa(500) - Santa Fe(900) - 
+Santa Fe->
+ 	 La Plata(750) - Salta(800) - Corrientes(900) - Neuquen(800) - 
+Neuquen->
+ 	 San Juan(1100) - Formosa(850) - Santa Fe(800) - Jujuy(900) - 
+Jujuy->
+ 	 Neuquen(900) - San Carlos de Bariloche(1400) - 
+San Carlos de Bariloche->
+ 	 Jujuy(1400) - Bariloche(50) - 
+Bariloche->
+ 	 Formosa(1400) - La Plata(1300) - San Carlos de Bariloche(50) - Salta(2000) - 
+Salta->
+ 	 Santa Fe(800) - Rosario(1100) - Bariloche(2000) - San Miguel de Tucuman(600) - 
+San Miguel de Tucuman->
+ 	 Salta(600) - La Plata(1700) - 
+La Plata->
+ 	 Bariloche(1300) - Santa Fe(750) - San Miguel de Tucuman(1700) - Mendoza(1200) - 
+Mendoza->
+ 	 Cordoba(850) - Retiro(1000) - La Plata(1200) - Rosario(1100) - 
+Rosario->
+ 	 Salta(1100) - Cordoba(400) - Mendoza(1100) - Palermo(700) - 
+Palermo->
+ 	 Rosario(700) - Mar del Plata(1300) - 
+Mar del Plata->
+ 	 Palermo(1300) - Cordoba(1500) - 
+Cordoba->
+ 	 Rosario(400) - Mendoza(850) - Mar del Plata(1500) - Retiro(800) - 
+Retiro->
+ 	 Mendoza(1000) - Catamarca(1200) - Cordoba(800) - 
+
+745: ALTURA(4)
+ 	HI=234	HD=830	
+234: ALTURA(3)
+ 	HI=167	HD=502	
+167: ALTURA(2)
+ 	HI=123	HD=223	
+123: ALTURA(1)
+ 	HI=111	HD=150	
+111: ALTURA(0)
+ 	HI= -  	HD= -  	
+150: ALTURA(0)
+ 	HI= -  	HD= -  	
+223: ALTURA(1)
+ 	HI=210	HD= -  	
+210: ALTURA(0)
+ 	HI= -  	HD= -  	
+502: ALTURA(2)
+ 	HI=320	HD=547	
+320: ALTURA(1)
+ 	HI=309	HD= -  	
+309: ALTURA(0)
+ 	HI= -  	HD= -  	
+547: ALTURA(1)
+ 	HI=503	HD=678	
+503: ALTURA(0)
+ 	HI= -  	HD= -  	
+678: ALTURA(0)
+ 	HI= -  	HD= -  	
+830: ALTURA(2)
+ 	HI=789	HD=987	
+789: ALTURA(1)
+ 	HI=765	HD= -  	
+765: ALTURA(0)
+ 	HI= -  	HD= -  	
+987: ALTURA(1)
+ 	HI=893	HD=6789	
+893: ALTURA(0)
+ 	HI= -  	HD= -  	
+6789: ALTURA(0)
+ 	HI= -  	HD= -  	
+
+  Se elimino el Tren 210
+ESTADO FINAL
+___________________________________________
+Arbol vacio
+{}
+
+Arbol vacio

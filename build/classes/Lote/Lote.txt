@@ -1,0 +1,77 @@
+E;Retiro;Av. Dr. Jose Maria Ramos Mejia;1430;CABA;C1104;9;6
+E;Cordoba;Boulevard Juan Domingo Peron;101;Cordoba;5000;6;4
+E;Mar del Plata;San Juan;1642;Mar del Plata;7600;5;4
+E;Palermo;Av. Sarmiento;2704;CABA;C1425;5;3
+E;Rosario;Calle Santa Fe;123;Rosario;S2000;8;5
+E;Mendoza;Calle San Martin;540;Mendoza;M5500;7;4
+E;La Plata;Calle 7;1270;La Plata;B1900;6;3
+E;San Miguel de Tucuman;Calle 25 de Mayo ;265;Tucuman;T4100;4;3
+E;Salta;Calle Buenos Aires;650;Salta;A4400;3;2
+E;Bariloche;Av. Bustillo;1000;Bariloche;R8400;6;4
+E;San Carlos de Bariloche;Av. Libertador ;200;Bariloche;R8400;4;3
+E;Jujuy;Calle Belgrano;400;Jujuy;Y4600;5;3
+E;Neuquen;Calle Belgrano;1200;Neuquen;Q8300;6;4
+E;Santa Fe;Calle 25 de Mayo;800;Santa Fe;S3000;4;3
+E;Corrientes;Calle Junin;1000;Corrientes;W3400;5;3
+E;Formosa;Calle Rivadavia;600;Formosa;P3600;4;2
+E;Posadas;Av. Mitre;900;Posadas;N3300;6;3
+E;San Juan;Calle Rivadavia;300;San Juan;J5400;5;3
+E;La Rioja;Calle San Nicolas;700;La Rioja;F5300;4;2
+E;Catamarca;Calle Rivadavia;500;Catamarca;K4700;3;2
+L;Mitre;Retiro;Cordoba;Palermo;La Plata
+L;Mar del Plata;Retiro;Palermo;La Plata;Mar del Plata
+L;Salta Express;Retiro;Cordoba;Salta
+L;Patagonia;Bariloche;San Carlos de Bariloche;Neuquen
+L;Andina;Mendoza;San Juan;La Rioja;Catamarca
+L;Mesopotamia;Posadas;Formosa;Corrientes
+L;Norte;Retiro;Santa Fe;Jujuy;Salta
+R;Retiro;Cordoba;800
+R;Cordoba;Mar del Plata;1500
+R;Mar del Plata;Palermo;1300
+R;Palermo;Rosario;700
+R;Rosario;Mendoza;1100
+R;Mendoza;La Plata;1200
+R;La Plata;San Miguel de Tucuman;1700
+R;San Miguel de Tucuman;Salta;600
+R;Salta;Bariloche;2000
+R;Bariloche;San Carlos de Bariloche;50
+R;San Carlos de Bariloche;Jujuy;1400
+R;Jujuy;Neuquen;900
+R;Neuquen;Santa Fe;800
+R;Santa Fe;Corrientes;900
+R;Corrientes;Formosa;500
+R;Formosa;Posadas;700
+R;Posadas;San Juan;900
+R;San Juan;La Rioja;400
+R;La Rioja;Catamarca;300
+R;Catamarca;Retiro;1200
+R;Retiro;Mendoza;1000
+R;Mendoza;Cordoba;850
+R;Cordoba;Rosario;400
+R;Rosario;Salta;1100
+R;Salta;Santa Fe;800
+R;Santa Fe;La Plata;750
+R;La Plata;Bariloche;1300
+R;Bariloche;Formosa;1400
+R;Formosa;Neuquen;850
+R;Neuquen;San Juan;1100
+T;234;diesel;5;6;Mitre
+T;6789;electrico;10;1;Mar del Plata
+T;893;gasolina;0;11;no-asignado
+T;745;electrico;8;2;Salta Express
+T;123;diesel;6;4;Norte
+T;547;gasolina;0;7;no-asignado
+T;987;electrico;9;1;Patagonia
+T;678;diesel;5;6;Andina
+T;223;electrico;8;2;Mitre
+T;167;gasolina;0;9;no-asignado
+T;789;diesel;4;7;Mesopotamia
+T;320;electrico;9;2;Patagonia
+T;502;diesel;6;4;Norte
+T;830;gasolina;0;8;no-asignado
+T;111;electrico;7;1;Andina
+T;765;diesel;5;6;Mar del Plata
+T;210;electrico;8;2;Mitre
+T;309;gasolina;0;9;no-asignado
+T;503;diesel;4;7;Salta Express
+T;150;electrico;9;2;Norte
